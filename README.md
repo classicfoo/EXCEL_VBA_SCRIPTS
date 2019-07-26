@@ -22,8 +22,8 @@ Function unhide_col_list(col_list)
 ## String Tools  
 Sub transpose()  
 Function list(l)  
-Public Function GetPoNumber(subject) As String
-Public Function GetAccountName(subject) As String
+Public Function GetPoNumber(subject) As String  
+Public Function GetAccountName(subject) As String  
 
 ## How to generate this readme (htgtr)  
 Copy all VBA code into new excel sheet, filter to rows ...  
