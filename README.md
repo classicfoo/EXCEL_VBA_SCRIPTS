@@ -10,7 +10,7 @@ Sub a_test()
 Sub gii_order_history()  
 Sub gov_eta()  
   
-## Show/hide cols  
+## Show/hide Cols  
 Sub hide_all_cols()  
 Sub unhide_all_cols()  
 Function unhide_col_list(col_list)  
@@ -18,7 +18,7 @@ Function hide_col_list(col_list)
 Function hide_col(col)  
 Function unhide_col(col)  
   
-## String tools  
+## String Tools  
 Sub transpose()  
 Function list(l)  
 
