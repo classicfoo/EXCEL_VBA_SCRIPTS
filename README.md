@@ -1,6 +1,6 @@
 # EXCEL_VBA_SCRIPTS
 
-https://github.com/michaelhuynh4000/EXCEL_VBA_SCRIPTS
+https://github.com/michaelhuynh4000/EXCEL_VBA_SCRIPTS#excel_vba_scripts
 
 VBA scripts I've put together.
 
