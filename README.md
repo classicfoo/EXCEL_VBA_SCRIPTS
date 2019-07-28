@@ -8,7 +8,7 @@ VBA scripts I've put together.
 Sub a_test()  
 ## Reformat Reports    
 Sub gii_order_history()  
-##Show/Hide Cols    
+## Show/Hide Cols    
 Sub gov_eta()  
 Sub hide_row(row)  
 Function hide_col(col)  
